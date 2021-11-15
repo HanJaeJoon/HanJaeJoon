@@ -28,9 +28,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanJaeJoon&theme=dark&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-<!--
+
 [![HanJaeJoon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HanJaeJoon&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
--->
+
 [![HanJaeJoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanJaeJoon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
