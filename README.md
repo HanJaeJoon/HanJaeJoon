@@ -26,11 +26,11 @@
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanJaeJoon&theme=dark&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanJaeJoon&theme=dark&layout=compact&hide=html)
 <br>
 
-[![HanJaeJoon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HanJaeJoon&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![HanJaeJoon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HanJaeJoon&theme=dark)
 <br>
 
-[![HanJaeJoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanJaeJoon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![HanJaeJoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanJaeJoon&show_icons=true&theme=dark&hide_title=true)
 <br>
