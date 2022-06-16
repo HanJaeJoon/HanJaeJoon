@@ -32,7 +32,7 @@
 ![HanJaeJoon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HanJaeJoon&theme=dark)
 <br>
 
-![HanJaeJoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanJaeJoon&show_icons=true&theme=dark&hide_title=true&private=true)
+![HanJaeJoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanJaeJoon&show_icons=true&theme=dark&hide_title=true&count_private=true)
 <br>
 
 [pepper🐈](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/77184660478739079778493429399302246505128367961362043519940866227097535774721/)
