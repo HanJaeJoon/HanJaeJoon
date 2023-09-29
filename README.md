@@ -44,8 +44,8 @@ Brief description of your role and achievements...
 ---
 <div align=center>
 
-[![HanJaeJoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanJaeJoon&show_icons=true&theme=dark&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![HanJaeJoon's GitHub stats](https://github-readme-stats-lilac-sigma.vercel.app/api?username=HanJaeJoon&show_icons=true&theme=dark&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
-[![HanJaeJoon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HanJaeJoon&theme=dark&hide_title=true&layout=compact&langs_count=10)](https://wakatime.com/@HanJaeJoon)
+[![HanJaeJoon's wakatime stats](https://github-readme-stats-lilac-sigma.vercel.app/api/wakatime?username=HanJaeJoon&theme=dark&hide_title=true&layout=compact&langs_count=10)](https://wakatime.com/@HanJaeJoon)
 
 </div>
